@@ -1,5 +1,11 @@
 # USB-Trace-SDK PHP SDK
 
+<!-- simple-start:start -->
+Use USB-Trace-SDK from a PHP app.
+
+**Start here.** Run `composer require titancsa/usb-trace-sdk`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Contact TitanCSA**
 >
